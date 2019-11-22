@@ -1,2 +1,1 @@
-# BN-Bellucci
-Ciclo di Biennio: Edoardo Bellucci
+# Lezione di giovedì 21 novembre 2019\n\n## Argomenti
